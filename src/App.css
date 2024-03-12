@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.image {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card {
+  height: 450px !important;
+  margin-block-start: 15px;
+  position: relative;
+}
+
+.button {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+}
